@@ -1,0 +1,26 @@
+﻿<Window x:Class="WPFRelayCommand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFRelayCommand"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Width="250">
+            <TextBlock>Messages</TextBlock>
+            <ComboBox x:Name="ComboMessages" ItemsSource="{Binding MyMessages}" />
+            <Button Command="{Binding MessageBoxCommand}" 
+                    CommandParameter="{Binding ElementName=ComboMessages,
+                    Path=SelectedItem}">
+                Mesage Box
+            </Button>
+            <Button Command="{Binding ConsoleLogCommand}"
+                    CommandParameter="{Binding ElementName=ComboMessages,
+                    Path=SelectedItem}">
+                Console Log
+            </Button>
+            
+        </StackPanel>
+    </Grid>
+</Window>

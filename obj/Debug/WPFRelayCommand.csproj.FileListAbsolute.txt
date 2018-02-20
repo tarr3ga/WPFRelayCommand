@@ -1,0 +1,15 @@
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\bin\Debug\WPFRelayCommand.exe.config
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\bin\Debug\WPFRelayCommand.exe
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\bin\Debug\WPFRelayCommand.pdb
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand.csprojResolveAssemblyReference.cache
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\MainWindow.g.cs
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\App.g.cs
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand_MarkupCompile.cache
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand_MarkupCompile.lref
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\MainWindow.baml
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand.g.resources
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand.Properties.Resources.resources
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand.csproj.GenerateResource.Cache
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand.csproj.CoreCompileInputs.cache
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand.exe
+C:\Users\jamyers\OneDrive\Code\Visual Studio 2017\WPFSandbox\WPFRelayCommand\obj\Debug\WPFRelayCommand.pdb
